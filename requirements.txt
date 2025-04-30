@@ -8,3 +8,6 @@ arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
+langchain_huggingface
+faiss-cpu
+langchain_chroma
