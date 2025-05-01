@@ -11,3 +11,5 @@ langchain-text-splitters
 langchain_huggingface
 faiss-cpu
 langchain_chroma
+langchain_groq
+langchain_core
